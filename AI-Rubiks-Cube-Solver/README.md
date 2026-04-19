@@ -20,7 +20,7 @@ Installation guide to run it on your local system
 <p>Step 1:</p>
 
 ```
-git clone https://github.com/suhasasumukh/AI-Rubiks-Cube-Solver
+git clone git clone https://github.com/Girivashn2607/AI-RUBIKS-CUBE-SOLVER.git
 ```
 
 <p>Step 2:</p>
