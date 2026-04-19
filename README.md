@@ -43,13 +43,3 @@ docker compose up -d
 ```
 ---------
 ### Enjoy using AI Rubiks Cube Solver
-
-<h2>🛡️ License:</h2>
-
-This project is licensed under the MIT license
-
-<h2>💖Like my work?</h2>
-
-<p>From day one, I set out to revolutionize cube-solving. Through the highs and lows, I’ve shared every step.</p>
-<br>
-<p>Find me on twitter <a href="https://twitter.com/suhasasumukh">@suhasasumukh</a></p>
