@@ -20,7 +20,7 @@ Installation guide to run it on your local system
 <p>Step 1:</p>
 
 ```
-git clone https://github.com/Girivashn2607/AI-RUBIKS-CUBE-SOLVER.git
+git clone git clone https://github.com/Girivashn2607/AI-RUBIKS-CUBE-SOLVER.git
 ```
 
 <p>Step 2:</p>
@@ -43,3 +43,13 @@ docker compose up -d
 ```
 ---------
 ### Enjoy using AI Rubiks Cube Solver
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT license
+
+<h2>💖Like my work?</h2>
+
+<p>From day one, I set out to revolutionize cube-solving. Through the highs and lows, I’ve shared every step.</p>
+<br>
+<p>Find me on twitter <a href="https://twitter.com/suhasasumukh">@suhasasumukh</a></p>
