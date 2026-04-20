@@ -34,12 +34,5 @@ cd ./AI-Rubiks-Cube-Solver
 ```
 Open AI folder and run index.html
 ```
-
----------
-<h3>🐳 Docker</h3>
-
-```
-docker compose up -d
-```
 ---------
 ### Enjoy using AI Rubiks Cube Solver
